@@ -2,9 +2,9 @@ Bài tập lớn môn Xử Lý Ảnh
 IntelliJ IDEA 2024.1
 Phiên bản JDK 8 (1.8)
 Encoding UTF-8
-Yêu cầu: Cài đặt các thuật toán đã học trong slide bài giảng bằng ngôn ngữ lập trình tùy ý...
+Yêu cầu: Cài đặt phương pháp đã học trong slide bài giảng 
 
-GrayScale Conversion Image (chuyển ảnh thành ảnh xám)
+####GrayScale Conversion Image (chuyển ảnh thành ảnh xám)
 Histogram Equalization (cân bằng histogram)
 Negative Image (Ảnh âm bảng)
 Thresholding( Ngưỡng)
