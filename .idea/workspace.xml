@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3786dbb2-55c9-473b-9f37-327a279ca53e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/XuLyAnh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Xu_Ly_Anh_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/BitSlicing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/Lines Dectection.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/Mặt trăng_ ngưỡng.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/Nagative_Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/Point Detection.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/Sobel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/boundary extraction.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/erision_and_dilation.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/erision_and_dilation1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/histogram Equalization.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/laplacian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/laplacian1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/laplap image.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/logarit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/mặt trăng laplain.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/planenoise_Min_Max_Median.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/powerlaw.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/powerlaw1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/salt and peper noise_Min_Max_Median.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/shaperd image.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/sharepfull.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/sliceplanebit.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/sobel1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File Ảnh để test/thường thành xám.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Xu_Ly_Anh-1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/jcommon-1.0.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/jfreechart-1.0.19-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/lib/jfreechart-1.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/Processing$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/Processing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/ProcessingUI2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/SoSanh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Xu_Ly_Anh-1.0/xulyanh/XuLyVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/Processing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI1.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI2.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/ProcessingUI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/SoSanh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/XuLyVien.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xulyanh/XuLyVien.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2fEIBJnWbgD0GsYrq30FJx8yMH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ProcessingUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.XuLyVien.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;228&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ThongDNg/Desktop/Xu_Ly_Anh-1.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ProcessingUI">
+    <configuration name="ProcessingUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulyanh.ProcessingUI" />
+      <module name="Xu_Ly_Anh-1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xulyanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XuLyVien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulyanh.XuLyVien" />
+      <module name="Xu_Ly_Anh-1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xulyanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XuLyVien" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3786dbb2-55c9-473b-9f37-327a279ca53e" name="Changes" comment="" />
+      <created>1713359677277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713359677277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7a79f99e-1180-400a-a5be-f1ff95666ac9" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7a79f99e-1180-400a-a5be-f1ff95666ac9">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
